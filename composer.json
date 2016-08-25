@@ -8,6 +8,11 @@
             "email": "detatechindia@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "DetaTech\\RepositoryPattern\\": "src/"
+        }
+    },
     "minimum-stability": "stable",
     "require": {},
     "require-dev": {
