@@ -1,0 +1,10 @@
+<?php
+
+namespace DummyNameSpaceName;
+
+use DummyImportInterfaceNamespace;
+
+class DummyClassName implements DummyInterfaceNameContract
+{
+    
+}

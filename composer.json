@@ -1,0 +1,16 @@
+{
+    "name": "detatech/repository-pattern",
+    "description": "Repository Pattern for Laravel 5.3.*",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DetaTech Computers",
+            "email": "detatechindia@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "5.5.*"
+    }
+}
