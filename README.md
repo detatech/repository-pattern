@@ -1,10 +1,8 @@
-# Repository Pattern For Laravel 5.3.*
-
-----
+## Repository Pattern For Laravel >= 5.1.* | >= 5.2.* | >= 5.3.*
 
 Create Repository Pattern Files with a single command.
 
-## Usage
+### Usage
 
 * Require this package using composer
 ```
@@ -57,5 +55,5 @@ Target [/path/to/Contract/File] is not instantiable
 
 Done.
 
-## LICENSE
+### LICENSE
 This package is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
