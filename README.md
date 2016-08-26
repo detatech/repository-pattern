@@ -6,7 +6,7 @@ Create Repository Pattern Files with a single command.
 
 * Require this package using composer
 ```
-composer require detatech/repository-pattern:0.1.*
+composer require detatech/repository-pattern:1.0.*
 ```
 
 * Update the `$providers` array in `config/app.php`
